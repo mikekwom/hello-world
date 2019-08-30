@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+This is Mike!
+
+First github practice.
+Excited to collab with others.
